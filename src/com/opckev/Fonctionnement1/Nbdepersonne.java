@@ -1,4 +1,4 @@
-package com.opckev;
+package com.opckev.Fonctionnement1;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
